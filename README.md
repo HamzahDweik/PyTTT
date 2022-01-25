@@ -1,3 +1,5 @@
 # PyTTT
 
-This is a Tic-Tac-Toe game programmed in python in a progressive way. It begins as an in-console program and expands to include a GUI with the help of pygame.
+This is a Tic-Tac-Toe game programmed in python.
+
+The master branch is the in-console initial form of TTT, whereas the pygamev branch is the pygame GUI form of TTT.
